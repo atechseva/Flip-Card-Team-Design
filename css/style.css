@@ -2,21 +2,6 @@
 #team {
     background: #dfeaea !important;
 }
-
-.btn-primary:hover,
-.btn-primary:focus {
-    background-color: #00447b;
-    border-color:#00447b;
-    box-shadow: none;
-    outline: none;
-}
-
-.btn-primary {
-    color: #fff;
-    background-color:#00447b;
-    border-color:#00447b;
-}
-
 section {
     padding: 60px 0;
 }
